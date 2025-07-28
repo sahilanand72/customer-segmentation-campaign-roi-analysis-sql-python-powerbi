@@ -1,19 +1,18 @@
-$ Marketing Analytics Project | SQL, Python, Power BI
+$ Customer Segmentation and Campaign ROI Analysis using SQL, Python & Power BI
 
 $ Overview
 
-This project simulates a real-world marketing analytics workflow where campaign performance and customer sentiment data are analyzed to derive actionable business insights. The project involves data cleaning, SQL querying, sentiment analysis using Python, and interactive visualizations using Power BI.
+This end-to-end marketing analytics project focuses on analyzing customer segments and evaluating campaign return on investment (ROI) using real-world-style data. The project uses SQL for data cleaning and querying, Python (including NLP) for sentiment analysis, and Power BI for dashboard visualizations.
 
 $$ Objective
 
-To assess marketing campaign effectiveness, understand customer sentiment, and identify improvement opportunities using data-driven methods.
+To help a marketing team understand which customer segments drive the most value, assess campaign performance, and leverage sentiment analysis to improve targeting and engagement.
 
 $$ Tools and Technologies
 
 - SQL (PostgreSQL/MySQL): Data extraction, joins, and aggregations
 - Python: Data cleaning, sentiment analysis using NLTK, visualization using Pandas and Seaborn
 - Power BI: Dashboard to display campaign ROI, customer engagement trends, and sentiment analysis results
-
 
 $$ Key Components
 
